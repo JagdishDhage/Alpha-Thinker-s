@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Sangali</item>
+    </string-array>
+    <string-array name="parking_lots">
+        <item>Parking Lot 1</item>
+        <item>Parking Lot 2</item>
+        <item>Parking Lot 3</item>
+    </string-array>
+    <string-array name="vehicles">
+        <item>1</item>
+        <item>2 Lot </item>
+        <item>3 </item>
+    </string-array>
+    <string-array name="houses">
+        <item>House 1</item>
+        <item>House 2</item>
+        <item>House 3</item>
+        <!-- Add more house names as needed -->
+    </string-array>
+</resources>

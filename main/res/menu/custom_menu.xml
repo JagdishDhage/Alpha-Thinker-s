@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/app_logo"
+        android:title="ParkWithEase"
+        android:icon="@drawable/logo"
+        android:enabled="false"
+        android:iconTint="@null"/>
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/vehicle"
+        android:icon="@drawable/ic_vehcle"
+        android:title="Your Vehicle's" />
+    <item
+        android:id="@+id/booking"
+        android:icon="@drawable/ic_booking"
+        android:title="Your Booking" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_history"
+        android:title="Booking History" />
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_logout"
+        android:title="LogOut" />
+</menu>
